@@ -1,0 +1,11 @@
+// CREATE TABLE IF NOT EXISTS doctors (
+//     id INT AUTO_INCREMENT PRIMARY KEY,
+//     name VARCHAR(255) NOT NULL,
+//     address TEXT NOT NULL,
+//     contact VARCHAR(15) NOT NULL,
+//     area VARCHAR(255) NOT NULL,
+//     qualification VARCHAR(255) NOT NULL,
+//     medical VARCHAR(255) NOT NULL,
+//     created_at TIMESTAMP DEFAULT CURRENT_TIMESTAMP,
+//     updated_at TIMESTAMP DEFAULT CURRENT_TIMESTAMP ON UPDATE CURRENT_TIMESTAMP
+// );
