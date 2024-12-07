@@ -1,0 +1,9 @@
+// CREATE TABLE IF NOT EXISTS employees (
+//     id INT AUTO_INCREMENT PRIMARY KEY,
+//     name VARCHAR(255) NOT NULL,
+//     employee_code VARCHAR(100) NOT NULL,
+//     designation VARCHAR(255) NOT NULL,
+//     headquarters VARCHAR(255) NOT NULL,
+//     created_at TIMESTAMP DEFAULT CURRENT_TIMESTAMP,
+//     updated_at TIMESTAMP DEFAULT CURRENT_TIMESTAMP ON UPDATE CURRENT_TIMESTAMP
+// );
